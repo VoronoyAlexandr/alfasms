@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>smsnewsletter</name>
+	<displayName><![CDATA[СМС рассылка]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[СМС рассылка подписчикам магазина.]]></description>
+	<author><![CDATA[Вороной Александр]]></author>
+	<tab><![CDATA[other]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
